@@ -1,10 +1,16 @@
 - title: 'Ph.D. in Mechanical Engineering, minor in Physics'
   description: 'Massachusetts Institute of Technology (Feb. 2018-Jan. 2022)'
+  thesis: 'Phonon and electron transport through interfaces and disordered structures'
+  url: 'assets/thesis.pdf'
 
 - title: 'M.S. in Mechanical Engineering'
   description: 'Massachusetts Institute of Technology (Sep. 2015-Feb. 2018)'
+  thesis: 'Ab initio study of electron transport in lead telluride'
+  url: 'assets/master_thesis.pdf'
 
 - title: 'B.S. in Thermal Energy and Power Engineering'
   description: 'Huazhong University of Science and Technology (Sep. 2011-June 2015)'
+  thesis: 'On the effect of interlayer interaction on the thermal conductivity in folded graphene'
+  url: 'assets/bachelor_thesis.pdf'
 
 
