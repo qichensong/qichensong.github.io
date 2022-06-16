@@ -6,6 +6,7 @@ menu:
 
 research:
 - {name: 'Charge and energy transport in heterostructures', image: 'assets/img/home.jpg'}
+#- {name: 'Thermal transport in novel inorganic materials', image: 'assets/img/porous.jpg'}
 
 social:
 - {icon: 'github', link: 'https://github.com/qichensong'}

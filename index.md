@@ -7,4 +7,4 @@ I am an HQI Postdoctoral fellow at Harvard University, hosted by Jarad Mason. In
 
 I am interested in the fundamental study of charge and energy transport in heterostructures for efficient electronics and quantum computing.
 
-I am also interested in understanding the thermal transport in noval inorganic materials for energy applications.
+I am also interested in understanding the thermal transport in novel inorganic materials for energy applications.
