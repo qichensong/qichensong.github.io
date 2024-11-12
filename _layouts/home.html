@@ -5,17 +5,19 @@ layout: default
 <div class="row g-5 mb-5">
   <div class="col-md-10">
     {{ content }}
-    <div style="text-align: center;">
-     <img src="{{ site.github.url }}/assets/img/plans.jpg" alt="Home" width="75%" style="max-width: 600px;">
+   <!--<div style="text-align: center;">-->
+     <img src="{{ site.github.url }}/assets/img/plans.jpg" alt="Home" width="78%" style="max-width: 600px;">
    </div>
-  </div>
+   <!--</div>-->
 </div>
 
-{% include publications.html %}
+  <div class="col-md-10">
+    {% include publications.html %}
+  </div>
 
-<div class="row g-5 mb-5">
-  <div class="col-md-8">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
+<div class="row g-5 mb-4">
+  <div class="col-md-10">
+    <h3 class="fw-bold border-bottom pb-3 mb-4">Updates</h3>
     {% for post in site.posts %}
       <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}

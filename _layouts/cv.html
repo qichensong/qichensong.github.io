@@ -2,25 +2,25 @@
 layout: default
 ---
 
-<div class="row g-5 mb-5">
+<div class="row g-5 mb-4">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
+    <h3 class="fw-bold border-bottom pb-3 mb-4">CV</h3>
+    <div class="row g-3 mb-5">
+      <div class="col-md-3">
         <h4>Professional Experience</h4>
       </div>
-      <div class="col-md-10">
+      <div class="col-md-7">
         {% for section in site.data.cv.professional-experience %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
+    <div class="row g-3 mb-5">
+      <div class="col-md-3">
         <h4>Education</h4>
       </div>
-      <div class="col-md-10">
+      <div class="col-md-7">
         {% for section in site.data.cv.education %}
           <p class="fw-bold">{{ section.title }}</p>
           <p>{{ section.description }}</p>
@@ -28,21 +28,21 @@ layout: default
         {% endfor %}
       </div>
     </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
+    <div class="row g-3 mb-5">
+      <div class="col-md-3">
         <h4>Awards</h4>
       </div>
-      <div class="col-md-10">
+      <div class="col-md-7">
         {% for section in site.data.cv.awards %}
           <p>{{ section.title }}</p>
         {% endfor %}
       </div>
     </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
+    <div class="row g-3 mb-5">
+      <div class="col-md-3">
         <h4>Teaching</h4>
       </div>
-      <div class="col-md-10">
+      <div class="col-md-7">
         {% for section in site.data.cv.teaching %}
           <p>{{ section.title }}</p>
         {% endfor %}
