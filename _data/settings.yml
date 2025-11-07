@@ -7,7 +7,7 @@ menu:
 research:
 - {name: 'Molecular Materials AI', image: 'assets/img/plans1.png'}
 - {name: 'Accelerated Atomistic Compute', image: 'assets/img/plans2.png'}
-- {name: 'Nanoscale Charge and Temperature Mapping', image: 'assets/img/plans3.png'}
+- {name: 'Nanoscale Charge & Temperature Mapping', image: 'assets/img/plans3.png'}
 #- {name: 'Energy conversion and transport', image: 'assets/img/plans.jpg'}
 #- {name: 'Thermal transport in novel inorganic materials', image: 'assets/img/porous.jpg'}
 
