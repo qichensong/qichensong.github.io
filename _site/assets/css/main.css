@@ -2,4 +2,10 @@ body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMac
 
 body a { color: #212529 !important; text-decoration: none; }
 
+.research-img-container { width: 85%; /* Match the img width */ margin: 0 auto; /* Center the container horizontally */ display: flex; flex-direction: column; align-items: center; /* Center children horizontally */ }
+
+.research-img-container img { width: 100%; /* Img fills the container's width */ display: block; /* Remove baseline gap below the image */ }
+
+.research-title { font-size: 2rem; font-weight: bold; margin-bottom: 1rem; text-align: center; width: 100%; /* Title fills the container width */ }
+
 /*# sourceMappingURL=main.css.map */

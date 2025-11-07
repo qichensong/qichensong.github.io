@@ -8,8 +8,10 @@ layout: default
 {% for item in site.data.settings.research %}
 <div class="row g-5 mb-4">
   <div class="col-md-12">
+	<div class="research-img-container">
+    <div class="research-title mb-2">{{ item.name }}</div>
     <img src="{{ site.github.url }}/{{ item.image }}" alt="thrust" width="85%">
-    <h5><ul><li>{{ item.name }}</li><ul></h5>
+  	</div>
   </div>
 </div>
 {% endfor %}

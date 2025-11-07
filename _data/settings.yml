@@ -5,9 +5,9 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 research:
-- {name: 'Frequency-domain, diffraction-based optical spectroscopy method capable of performing transport and calorimetry measurements on micron-sized, single-crystal caloric materials', image: 'assets/img/plans1.png'}
-- {name: 'Design and synthesis of barocaloric materials and devices with exceptional solid-state cooling performances using inorganic chemistry and heat transfer design principles', image: 'assets/img/plans2.png'}
-- {name: 'First-principles calculations to explore the chemical space for the optimal design of barocaloric materials at the molecular and atomic levels', image: 'assets/img/plans3.png'}
+- {name: 'Molecular Materials AI', image: 'assets/img/plans1.png'}
+- {name: 'Accelerated Atomistic Compute', image: 'assets/img/plans2.png'}
+- {name: 'Nanoscale Charge and Temperature Mapping', image: 'assets/img/plans3.png'}
 #- {name: 'Energy conversion and transport', image: 'assets/img/plans.jpg'}
 #- {name: 'Thermal transport in novel inorganic materials', image: 'assets/img/porous.jpg'}
 
