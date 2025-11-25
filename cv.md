@@ -2,4 +2,5 @@
 layout: cv
 title: "CV"
 ---
-[.pdf]({{ site.github.url }}/cv.pdf)
+[<a href="{{ site.github.url }}/cv.pdf" style="color: blue !important;">cv.pdf</a>]
+
